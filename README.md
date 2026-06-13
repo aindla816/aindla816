@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Navin Aindlah
+# 👋 Hi, I'm Navin Aindla
 
 ### 🚀 Integrations Lead | Dynamics CRM/365 | MuleSoft | Salesforce | Azure
 
