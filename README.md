@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Enterprise+Integration+Architect;Dynamics+CRM%2F365+Specialist;MuleSoft+%26+API+Expert;14%2B+Years+of+Experience;Open+to+Collaborate!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navin%20Aindla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenaindla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen%20Aindla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenaindla)
 [![Profile Views](https://komarev.com/ghpvc/?username=aindla816&style=for-the-badge&color=0078D4&label=Profile+Views)](https://github.com/aindla816)
 
 </div>
@@ -17,9 +17,9 @@
 
 > *"Building bridges between systems so businesses can focus on what matters most."*
 >
-> I'm a seasoned **Technical and Integrations Lead** based in the United States with **14+ years** of hands-on experience architecting and delivering enterprise-grade integration solutions for both private industry and government clients.
+> I'm a seasoned **Technical and Integrations Lead** based in the United States with **19+ years** of hands-on experience architecting and delivering enterprise-grade integration solutions for both private industry and government clients.
 >
-> - 🏢 **Currently:** Integrations Lead / CRM Integration Specialist @ **VSoft Consulting Group Inc** *(Jul 2012 – Present)*
+> - 🏢 **Currently:** Integrations Lead / CRM Integration Specialist *
 > - - 🎯 **Specialties:** Dynamics CRM/365, MuleSoft Anypoint Platform, Salesforce, ETL Pipelines, API Design
 >   - - ☁️ **Cloud:** Microsoft Azure (AZ-900 Certified)
 >     - - 🎓 **Education:** B.S. Computer Science — Jawaharlal Nehru Technological University
@@ -79,6 +79,7 @@
 
 | 🏅 Certification | 🏢 Issuer | 📅 Year |
 |-----------------|-----------|---------|
+| AZ-305: Designing Microsoft Azure Infrastructure Solutions | Microsoft | 2026 |
 | Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate | Microsoft | 2022 |
 | AZ-900: Microsoft Azure Fundamentals | Microsoft | 2021 |
 
