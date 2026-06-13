@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Naveen Aindla
+# 👋 Hi, I'm Navin Aindlah
 
 ### 🚀 Integrations Lead | Dynamics CRM/365 | MuleSoft | Salesforce | Azure
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Enterprise+Integration+Architect;Dynamics+CRM%2F365+Specialist;MuleSoft+%26+API+Expert;14%2B+Years+of+Experience;Open+to+Collaborate!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen%20Aindla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenaindla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navin%20Aindla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenaindla)
 [![Profile Views](https://komarev.com/ghpvc/?username=aindla816&style=for-the-badge&color=0078D4&label=Profile+Views)](https://github.com/aindla816)
 
 </div>
